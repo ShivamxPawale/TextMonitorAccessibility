@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">ToxiGuard</string>
+    <string name="accessibility_service_description" translatable="false">Detects and neutralizes toxic text on screen.</string>
+</resources>
